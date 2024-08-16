@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Oswald Stencil';
+    src: url('OswaldStencil-Bold.eot');
+    src: url('OswaldStencil-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OswaldStencil-Bold.woff2') format('woff2'),
+        url('OswaldStencil-Bold.woff') format('woff'),
+        url('OswaldStencil-Bold.ttf') format('truetype'),
+        url('OswaldStencil-Bold.svg#OswaldStencil-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
